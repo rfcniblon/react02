@@ -1,0 +1,36 @@
+{
+  "name": "node_exo",
+  "version": "1.0.1",
+  "description": "exercice node de la Wild code school",
+  "main": "main2.js",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfcniblon/node.js.git"
+  },
+  "keywords": [
+    "programme",
+    "listant",
+    "quatre",
+    "prenom",
+    "de",
+    "wilder",
+    "ainsi",
+    "qu'avec",
+    "une",
+    "couleur",
+    "differente."
+  ],
+  "author": "LAMBINET NICOLAS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rfcniblon/node.js/issues"
+  },
+  "homepage": "https://github.com/rfcniblon/node.js#readme"
+}
